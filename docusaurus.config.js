@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
     title: 'GetTheAudience docs',
     tagline: 'Developing your Twitter audience, effectively',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://docs.gettheaudience.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    organizationName: 'GetTheAudience', // Usually your GitHub org/user name.
+    projectName: 'documentation', // Usually your repo name.
     themeConfig: {
         navbar: {
             title: 'Home',
@@ -66,17 +66,13 @@ module.exports = {
                     title: 'More',
                     items: [
                         {
-                            label: 'Blog',
-                            to: '/blog',
-                        },
-                        {
                             label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            href: 'https://github.com/GetTheAudience/documentation',
                         },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Matthias Bohlen. Built with Docusaurus.`,
         },
         prism: {
             theme: lightCodeTheme,
@@ -91,7 +87,7 @@ module.exports = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl:
-                        'https://github.com/facebook/docusaurus/edit/master/website/',
+                        'https://github.com/GetTheAudience/documentation/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
