@@ -87,7 +87,7 @@ module.exports = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl:
-                        'https://github.com/GetTheAudience/documentation/',
+                        'https://github.com/GetTheAudience/documentation/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
