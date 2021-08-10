@@ -10,11 +10,17 @@ Get started by **creating a first audience**.
 
 ## Create your first audience
 
-1. Find a Twitter handle who engages with your audience. Not sure? It’s easiest to **start with your own**.
-2. Name an Audience
-  - Go to `Audiences` and click `New audience`
-  - Enter a `name` and `description`, such as "My First Audience"
-3. Send the first elf 🧝 to listen to your Twitter handle. An elf 🧝‍️ is a helpful little creature that goes to Twitter and listens for you. Whenever your audience has tweets from/to/mentioning a @___, then it imports those tweets to analyze.
+Find a Twitter handle who engages with your audience. Not sure? It’s easiest to **start with your own**.
+
+Then, name an audience:
+
+1. Go to `Audiences`
+2. Click `New audience`
+3. Enter a `name` and `description`, such as "My First Audience", and click on `Create audience`.
+
+When the audience opens, send the first elf 🧝 to listen to your Twitter handle. An elf 🧝‍️ is a helpful little creature that goes to Twitter and listens for you. Whenever your audience has tweets from/to/mentioning a @___, then it imports those tweets to analyze.
+
+![Screenshot: Create an audience](/img/tutorial/create-an-audience.png)
 
 ## Listen to your audience
 
@@ -29,7 +35,9 @@ Whenever you click on words, people, or time, the tweets and the other tabs will
 - When you click on a *word*, the people tab only shows people who have tweeted about this *word*.
 - When you click on an *hour* in the time tab, the words tab shows the words used during that *hour*. The people tab shows only those people who are tweeting during that same *hour*, and so on.
 
+![Screenshot: Words, People, and Time](/img/intro-words-people-time.png)
+
 ## Engage with your audience
 
-1. Click on a Tweet or Twitter Handle to engage in the conversation
+1. Click on a tweet or on a person, to engage in the conversation
 2. Install the **Get the Audience** browser extension to listen to your Twitter history moving forward. It's available for [Chrome](https://chrome.google.com/webstore/detail/gettheaudience/nhgollpfmmmjbmjmgbiecekafeifmjbn) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gettheaudience-companion/).
