@@ -9,9 +9,9 @@ module.exports = {
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/icons/favicon-32x32.png',
     organizationName: 'GetTheAudience', // Usually your GitHub org/user name.
-    projectName: 'documentation', // Usually your repo name.
+    projectName: 'documentation', // Usually your GitHub repo name.
     themeConfig: {
         navbar: {
             title: 'Home',
@@ -46,19 +46,32 @@ module.exports = {
                     ],
                 },
                 {
-                    title: 'Community',
+                    title: 'GetTheAudience',
                     items: [
                         {
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: 'Login',
+                            href: 'https://app.gettheaudience.com/1',
                         },
                         {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            label: 'Website',
+                            href: 'https://gettheaudience.com',
                         },
                         {
                             label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            href: 'https://twitter.com/GetTheAudience',
+                        },
+                    ],
+                },
+                {
+                    title: 'The Audience Explorer Podcast',
+                    items: [
+                        {
+                            label: 'Episodes',
+                            href: 'https://audience-explorer.transistor.fm/',
+                        },
+                        {
+                            label: 'Transcripts',
+                            href: 'https://gettheaudience.com/blog',
                         },
                     ],
                 },
@@ -66,13 +79,13 @@ module.exports = {
                     title: 'More',
                     items: [
                         {
-                            label: 'GitHub',
+                            label: 'Docs on GitHub',
                             href: 'https://github.com/GetTheAudience/documentation',
                         },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Matthias Bohlen. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Matthias Bohlen.`,
         },
         prism: {
             theme: lightCodeTheme,
