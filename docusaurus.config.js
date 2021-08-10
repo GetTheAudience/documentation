@@ -109,4 +109,5 @@ module.exports = {
             },
         ],
     ],
+    scripts: [{src: 'https://cdn.splitbee.io/sb.js', async: true, 'data-token': '9TQH6KBMV5H1'}],
 };
