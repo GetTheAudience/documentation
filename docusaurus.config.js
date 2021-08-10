@@ -12,6 +12,7 @@ module.exports = {
     favicon: 'img/icons/favicon-32x32.png',
     organizationName: 'GetTheAudience', // Usually your GitHub org/user name.
     projectName: 'documentation', // Usually your GitHub repo name.
+    trailingSlash: true,
     themeConfig: {
         navbar: {
             title: 'Home',
