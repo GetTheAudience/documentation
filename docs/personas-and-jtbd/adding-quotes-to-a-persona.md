@@ -4,9 +4,19 @@ sidebar_position: 6
 
 # Adding quotes to a persona
 
-After creating a persona, you can add quotes from real people in one or more of your audiences:
+After creating a persona, you can add quotes from real people, from one or more of your audiences. **Why would you want to do that?**
 
-1. Open an audience that you have
+In fact, this prepares the validation of your ideas. You add real people from Twitter so that your fictitious user persona will have to represent them. 
+
+:::tip
+Later, you will be able to invite the real people to surveys or interviews – to get feedback from them about whether your assumptions in the persona were correct or not.
+:::
+
+## How to quote a tweep in a persona
+
+"Tweep" is the short form for "person on Twitter". To add them to a persona, take these steps here:
+
+1. Open an audience that you have (use `Audiences` and click on one audience)
 2. Search for good quotes to add. Here we have clicked on the keyword `difficult` where people talk about problems with SEO
 3. Click on the **little icon below each tweet**, and a grey area with your existing personas opens up
 4. Click on a persona's fake profile image (e.g. **Jim Blogger**), to attribute this tweet to them, as a quote:
