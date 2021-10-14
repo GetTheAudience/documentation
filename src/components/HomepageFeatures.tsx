@@ -10,7 +10,7 @@ export default function HomepageFeatures() {
                         <h2>Welcome to the official documentation of GetTheAudience!</h2>
                         <div style={{ margin: '50 auto' }}>
                             <img
-                                style={{ maxWidth: '600px' }}
+                                style={{ maxWidth: '600px', backgroundColor: 'white'}}
                                 alt="The entrepreneur's process of co-building a product with their audience"
                                 src="/img/entrepreneurs-process.svg"
                             />
